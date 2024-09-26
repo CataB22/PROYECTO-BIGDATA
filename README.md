@@ -5,9 +5,9 @@
 
 | Nombre                   | ROL            |
 |--------------------------|--------------  |
-| Catalina Broughton Jara  | -              |
+| Catalina Broughton       | -              |
 | Felipe Osses             | -              |
 | Alicia Morales           | -              |
 | Sebastian Galindo        | -              |
 
-# **Profesor:** Juan Pablo Montecinos
+* **Profesor:** Juan Pablo Montecinos
