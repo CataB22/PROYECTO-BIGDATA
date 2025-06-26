@@ -3,11 +3,11 @@
 
 # **Integrantes:**
 
-| Nombre                   | ROL            |
-|--------------------------|--------------  |
-| Catalina Broughton       | -              |
-| Felipe Osses             | -              |
-| Alicia Morales           | -              |
-| Sebastian Galindo        | -              |
+| Nombre                   | ROL                                                    |
+|--------------------------|------------------------------------------------------  |
+| Catalina Broughton       | Visualización de datos y generación de informes        |
+| Felipe Osses             | Recolección y limpieza de datos                        |
+| Alicia Morales           | Coordinación del proyecto y presentación de resultados |
+| Sebastian Galindo        | Análisis de datos y desarrollo de modelos              |
 
 * **Profesor:** Juan Pablo Montecinos
